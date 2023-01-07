@@ -1,0 +1,5 @@
+project: oiio
+target: oiio
+
+cmds:
+  - cmd: /oiiotool @@ -o /dev/null
